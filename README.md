@@ -14,7 +14,7 @@ This repository contains SQL projects demonstrating data analysis, querying, agg
      <li>Data aggregation and summarization</li>
      <li>Data-driven insights for business decisions</li>
      <li>Working with multiple tables and relationships</li>
-   </ul>
+  </ul>
 
 ## Conclusion
 These projects showcase practical SQL skills for analyzing datasets and generating actionable insights, suitable for real-world business scenarios.
