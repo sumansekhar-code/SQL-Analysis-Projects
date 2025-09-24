@@ -1,0 +1,7 @@
+*.sql linguist-language=SQL
+*.ipynb linguist-vendored
+*.csv linguist-vendored
+*.xlsx linguist-vendored
+*.xls linguist-vendored
+*.md linguist-documentation
+*.png linguist-vendored
