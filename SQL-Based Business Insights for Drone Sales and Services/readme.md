@@ -43,9 +43,32 @@ The objective of this project is to analyze the sales performance of Xeta Squad 
 <li>Monthly revenue trends for decision support.</li>
 </ul>
 <h3><i><b>Revenue Reports</b></i></h3>
+<par>Summarizes the total revenue generated from drone sales, accessories, and services, highlighting overall business performance and trends.</par>
 <img src="Reports/Revenue_Report.png" alt="Revenue Report Screenshot" class="screenshot mt-3">
+  
 <h3><i><b>Top Customers Sales Analysis</b></i></h3>
-<img src="Reports/Top_Customers_Analysis.png" alt="Revenue Report Screenshot" class="screenshot mt-3">
+<par>Identifies the highest-spending customers and their contribution to total revenue, helping prioritize key accounts and relationships.</par>
+<img src="Reports/Top_Customers_Analysis.png" alt="Top Customers Sales Analysis Screenshot" class="screenshot mt-3">
+
+<h3><i><b>Product Performance Analysis</b></i></h3>
+<par>Shows the sales performance of individual drone models and accessories, highlighting top-selling and underperforming products.</par>
+<img src="Reports/Product_Performance_Analysis.png" alt="Product Performance Analysis Screenshot" class="screenshot mt-3">
+
+<h3><i><b>Region-wise Sales Analysis</b></i></h3>
+<par>Breaks down sales by region or city to identify high-performing areas and potential markets for business expansion.</par>
+<img src="Reports/Region_wise_sales_Report.png" alt="Region-wise Sales Analysis Screenshot" class="screenshot mt-3">
+
+<h3><i><b>Monthly Sales Trend</b></i></h3>
+<par>Tracks sales over months/quarters to reveal peak periods and seasonal trends for better business planning.</par>
+<img src="Reports/Monthly_Sales_Trend.png" alt="Monthly Sales Trend Screenshot" class="screenshot mt-3">
+
+<h3><i><b>Customer Segmentation</b></i></h3>
+<par>Groups customers based on total purchases to identify high-value clients and inform targeted marketing strategies.</par>
+<img src="Reports/Customer_Segmentation.png" alt="Customer Segmentation Screenshot" class="screenshot mt-3">
+
+<h3><i><b>Service vs Product Revenue Report</b></i></h3>
+<par>Groups customers based on total purchases to identify high-value clients and inform targeted marketing strategies.</par>
+<img src="Reports/Service_VS_Product_Revenue.png" alt="Service vs Product Revenue Report Screenshot" class="screenshot mt-3">
 </div>
 
 
@@ -87,4 +110,5 @@ SQL-Based Business Insights for Drone Sales and Services/
 </body>
 
 </html>
+
 
