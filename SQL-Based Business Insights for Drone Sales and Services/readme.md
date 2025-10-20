@@ -1,6 +1,17 @@
 <!DOCTYPE html>
-</div>
 
+<div class="section">
+<h2>🎯 Project Objective</h2>
+<par>
+The objective of this project is to analyze the sales performance of Xeta Squad Ltd, a drone manufacturing and service company, using SQL Server. The project focuses on transforming raw transactional data into meaningful business insights by generating key reports such as Revenue Analysis, Top Customer Analysis, and Sales Performance Reports.
+</par>
+<h4>Through this analysis, the goal is to:</h4>
+<ul>
+  <li>Identify top-performing products, customers, and regions</li>
+  <li>Evaluate overall revenue trends and growth patterns</li>
+  <li>Support strategic decision-making for sales optimization and business expansion</li>
+</ul>
+</div>
 
 <div class="section">
 <h2>🗄 Database Design</h2>
@@ -8,7 +19,8 @@
 <li>Five core tables: <code>Employees</code>, <code>Departments</code>, <code>Products</code>, <code>Customers</code>, <code>Sales</code>.</li>
 <li>Primary and foreign keys ensure referential integrity.</li>
 </ul>
-<img src="er_diagram.png" alt="ER Diagram" class="screenshot mt-3">
+<h3><i><b>ER Diagram</b></i></h3>
+<img src="Documentation/ER-Diagram.png" alt="ER Diagram" class="screenshot mt-3">
 </div>
 
 
@@ -30,7 +42,10 @@
 <li>Highest-paid employees and department comparisons.</li>
 <li>Monthly revenue trends for decision support.</li>
 </ul>
-<img src="revenue_report.png" alt="Revenue Report Screenshot" class="screenshot mt-3">
+<h3><i><b>Revenue Reports</b></i></h3>
+<img src="Reports/Revenue_Report.png" alt="Revenue Report Screenshot" class="screenshot mt-3">
+<h3><i><b>Top Customers Sales Analysis</b></i></h3>
+<img src="Reports/Top_Customers_Analysis.png" alt="Revenue Report Screenshot" class="screenshot mt-3">
 </div>
 
 
@@ -68,7 +83,8 @@ SQL-Based Business Insights for Drone Sales and Services/
 </div>
 
 
-<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js"></script>
+
 </body>
 
 </html>
+
