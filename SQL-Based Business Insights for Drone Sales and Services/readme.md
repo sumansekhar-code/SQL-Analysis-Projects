@@ -38,7 +38,7 @@
 <div class="section">
 <h2>📂 Folder Structure</h2>
 <pre>
-Xeta_Squad_Ltd_Project/
+SQL-Based Business Insights for Drone Sales and Services/
 ├─ README.html
 ├─ Database/
 │ ├─ create_database.sql
@@ -70,4 +70,5 @@ Xeta_Squad_Ltd_Project/
 
 <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js"></script>
 </body>
+
 </html>
