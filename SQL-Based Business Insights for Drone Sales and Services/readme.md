@@ -73,19 +73,25 @@ The objective of this project is to analyze the sales performance of Xeta Squad 
 <h2>📂 Folder Structure</h2>
 <pre>
 SQL-Based Business Insights for Drone Sales and Services/
-├─ README.html
-├─ Database/
-│ ├─ create_database.sql
-│ ├─ insert_data.sql
-│ ├─ analysis_queries.sql
-│ └─ views_triggers.sql
+├─ README.md
+├─ SQL Scripts/
+  ├─ create_database.sql
+  ├─ insert_data.sql
+  ├─ analysis_queries.sql
+  └─ views_triggers.sql
 ├─ Reports/
-│ ├─ revenue_report.png
-│ └─ top_customers.png
+  ├─ Product_Performance_Analysis.png
+  ├─ Region_wise_sales_Report.png
+  ├─ Top_Customers_Analysis.png
+  ├─ Region_wise_sales_Report.png
+  ├─ Monthly_Sales_Trend.png
+  ├─ Customer_Segmentation.png
+  ├─ Service_VS_Product_Revenue.png
+  └─ Top_Customers_Analysis.png
 ├─ Documentation/
-│ ├─ ER_Diagram.png
-│ └─ Project_Report.pdf
-└─ LICENSE
+  ├─ ER_Diagram.png
+  └─ Project_Report.pdf
+
 </pre>
 </div>
 
@@ -106,6 +112,7 @@ SQL-Based Business Insights for Drone Sales and Services/
 </body>
 
 </html>
+
 
 
 
