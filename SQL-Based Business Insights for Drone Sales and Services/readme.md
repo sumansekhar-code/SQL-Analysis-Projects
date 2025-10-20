@@ -16,8 +16,9 @@ The objective of this project is to analyze the sales performance of Xeta Squad 
 <div class="section">
 <h2>🗄 Database Design</h2>
 <ul>
-<li>Five core tables: <code>Employees</code>, <code>Departments</code>, <code>Products</code>, <code>Customers</code>, <code>Sales</code>.</li>
-<li>Primary and foreign keys ensure referential integrity.</li>
+<li>Normalized Tables: Designed separate tables for <code>Employees</code>, <code>Departments</code>, <code>Customers</code>, <code>Products</code>, <code>Sales </code> to reduce redundancy and maintain data integrity.</li>
+<li>Primary & Foreign Keys: Established primary keys for each table and foreign key relationships to connect customers, sales, and products for efficient querying.</li>
+<li>Optimized for Analysis: Structured tables to allow easy aggregation and reporting, enabling creation of Revenue Reports, Top Customer Analysis, and Product Performance Insights.</li>
 </ul>
 <h3><i><b>ER Diagram</b></i></h3>
 <img src="Documentation/ER-Diagram.png" alt="ER Diagram" class="screenshot mt-3">
@@ -27,21 +28,16 @@ The objective of this project is to analyze the sales performance of Xeta Squad 
 <div class="section">
 <h2>📊 Features</h2>
 <ul>
-<li>Realistic sample data for employees, customers, products, and sales.</li>
-<li>Analytics for finding revenue insigts. </li>
-<li>Analytical queries: aggregations, joins, subqueries.</li>
+<li>Comprehensive Sales Insights: Generates detailed reports on revenue, top customers, product performance, and regional sales trends.</li>
+<li>Data-Driven Decision Support: Helps the company identify high-value customers, top-selling products, and peak sales periods for strategic planning. </li>
+<li>SQL-Based Analysis: Uses SQL queries to extract, aggregate, and analyze business data efficiently, demonstrating hands-on data analytics skills.</li>
 </ul>
 </div>
 
 
 <div class="section">
 <h2>📈 Insights & Reports</h2>
-<ul>
-<li>Top revenue-generating products.</li>
-<li>Repeat customer analysis by state.</li>
-<li>Highest-paid employees and department comparisons.</li>
-<li>Monthly revenue trends for decision support.</li>
-</ul>
+
 <h3><i><b>Revenue Reports</b></i></h3>
 <par>Summarizes the total revenue generated from drone sales, accessories, and services, highlighting overall business performance and trends.</par>
 <img src="Reports/Revenue_Report.png" alt="Revenue Report Screenshot" class="screenshot mt-3">
@@ -110,5 +106,6 @@ SQL-Based Business Insights for Drone Sales and Services/
 </body>
 
 </html>
+
 
 
